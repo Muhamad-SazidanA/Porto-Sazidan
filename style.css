@@ -8,9 +8,9 @@
 }
 
 .bg-img {
-    background-image: url('assets/img/bg.jpg') !important;
+    background-image: url('img/bg.jpg') !important;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;     
     background-position: center;
 }
 
